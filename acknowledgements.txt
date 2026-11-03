@@ -1,0 +1,2 @@
+i have used codex to understand and get help for coding the cells.
+I have uplaoded numpy, json, re and counter as aditional libraries
